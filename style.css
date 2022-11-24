@@ -1,0 +1,30 @@
+html {
+    background-color: black;
+}
+
+.container1 {
+    color: blue;
+    font-size: 50px;
+    text-align: center;
+}
+
+.paragraph1 {
+    color: rgb(57, 241, 171);
+    font-size: 75px;
+    margin-top: 10px;
+}
+
+.icon {
+    position: relative;
+    text-align: right;
+    right: 25px;
+}
+
+.github {
+    color: white;
+    transition: 0.2s;
+}
+
+.github:hover {
+    color: #888888;
+}
